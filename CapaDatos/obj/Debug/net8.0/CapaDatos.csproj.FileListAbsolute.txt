@@ -1,0 +1,15 @@
+D:\BibliotecaWeb\CapaDatos\bin\Debug\net8.0\CapaDatos.deps.json
+D:\BibliotecaWeb\CapaDatos\bin\Debug\net8.0\CapaDatos.dll
+D:\BibliotecaWeb\CapaDatos\bin\Debug\net8.0\CapaDatos.pdb
+D:\BibliotecaWeb\CapaDatos\bin\Debug\net8.0\CapaModelo.dll
+D:\BibliotecaWeb\CapaDatos\bin\Debug\net8.0\CapaModelo.pdb
+D:\BibliotecaWeb\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.AssemblyReference.cache
+D:\BibliotecaWeb\CapaDatos\obj\Debug\net8.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\BibliotecaWeb\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfoInputs.cache
+D:\BibliotecaWeb\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfo.cs
+D:\BibliotecaWeb\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.CoreCompileInputs.cache
+D:\BibliotecaWeb\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.Up2Date
+D:\BibliotecaWeb\CapaDatos\obj\Debug\net8.0\CapaDatos.dll
+D:\BibliotecaWeb\CapaDatos\obj\Debug\net8.0\refint\CapaDatos.dll
+D:\BibliotecaWeb\CapaDatos\obj\Debug\net8.0\CapaDatos.pdb
+D:\BibliotecaWeb\CapaDatos\obj\Debug\net8.0\ref\CapaDatos.dll

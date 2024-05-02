@@ -1,0 +1,11 @@
+D:\BibliotecaWeb\CapaModelo\bin\Debug\net8.0\CapaModelo.deps.json
+D:\BibliotecaWeb\CapaModelo\bin\Debug\net8.0\CapaModelo.dll
+D:\BibliotecaWeb\CapaModelo\bin\Debug\net8.0\CapaModelo.pdb
+D:\BibliotecaWeb\CapaModelo\obj\Debug\net8.0\CapaModelo.GeneratedMSBuildEditorConfig.editorconfig
+D:\BibliotecaWeb\CapaModelo\obj\Debug\net8.0\CapaModelo.AssemblyInfoInputs.cache
+D:\BibliotecaWeb\CapaModelo\obj\Debug\net8.0\CapaModelo.AssemblyInfo.cs
+D:\BibliotecaWeb\CapaModelo\obj\Debug\net8.0\CapaModelo.csproj.CoreCompileInputs.cache
+D:\BibliotecaWeb\CapaModelo\obj\Debug\net8.0\CapaModelo.dll
+D:\BibliotecaWeb\CapaModelo\obj\Debug\net8.0\refint\CapaModelo.dll
+D:\BibliotecaWeb\CapaModelo\obj\Debug\net8.0\CapaModelo.pdb
+D:\BibliotecaWeb\CapaModelo\obj\Debug\net8.0\ref\CapaModelo.dll

@@ -1,0 +1,41 @@
+﻿@model CapaModelo.Categoria
+@{
+    ViewBag.Title = "Crear";
+    Layout = "/Views/Shared/_Layout.cshtml";
+}
+
+<div class=" content-wrapper" style="padding : 10px">
+    <div class="col-sm-12">
+        <div class="card border-info">
+            <div class="card-header bg-info text-white">
+                Lista Categorias
+            </div>
+            <div class=" card-body ">
+                <div class="row">
+                    <div class="col-sm-4">
+                  </diy>
+                    </div>
+                    <hr />
+                    <div class="row mt-3">
+                        <div class="col-sm-12">
+                            <table id="tbdata" class="table table-striped table-bordered nowrap compact" style=" width:100%">
+                                <thead>
+                                    <tr>
+                                        <th>CodigoID</th>
+                                        <th>Nombre</th>
+                                        <th>Descripcion</th>
+                                       
+                                    </tr>
+                                </thead>
+                                <tbody></tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    @section Scripts{
+        <partial name="_ValidationScriptsPartial" />
+        <script src="~/js/Crudcategoria.js"></script>
+    }
